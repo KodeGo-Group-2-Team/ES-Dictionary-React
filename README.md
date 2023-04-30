@@ -2,6 +2,8 @@
 
 # Standalone React
 
+: Project Name : ES-Dictionary
+
 Standalone React v 1.0.0
 
 I made this component to make your life easier to explore react.
